@@ -9,14 +9,15 @@ The analysis covers:
 - Courses with declining employment rates
 - Institutions with strong performance in employability
 
-The final report includes data-driven **insights**, **recommendations**, and a storytelling section to visualize findings effectively.
+The final report includes data-driven insights, recommendations, and a storytelling section to visualise findings effectively.
 
 ---
 
 ## 🛠️ Tools Used
 
 - **MYSQL**
-All results, insights, and visualizations are consolidated in a single report file 
+
+All results, insights, and visualisations are consolidated in a single report file. 
 
 
 
